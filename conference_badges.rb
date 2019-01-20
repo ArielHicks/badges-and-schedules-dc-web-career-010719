@@ -5,6 +5,6 @@
 
     def batch_badge_creator(attendee)
       attendees.map do |attendee|
-         "Hello, my name is #{attendee}."
+         badge_maker
        end
     end
