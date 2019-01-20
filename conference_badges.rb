@@ -16,6 +16,6 @@
   end
 
   def printer(attendees)
-    batch_badge_crator(attendees).each do |badge| 
-      puts badge 
+    batch_badge_crator(attendees).each do |badge|
+      puts badge
   end
