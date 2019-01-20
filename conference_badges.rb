@@ -20,5 +20,3 @@
         puts badge
     end
   end
-
-  
