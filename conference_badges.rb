@@ -19,3 +19,4 @@
     batch_badge_crator(attendees).each do |badge|
       puts badge
   end
+end
